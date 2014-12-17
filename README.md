@@ -1,9 +1,12 @@
-Exceptional Realty Group Website 
 ---
-# Description 
+tags: typography, images, links, iframes, forms, tables, media, responsive
+language: html, css, less, javascript
+---
 
-This is an example site for the intro to Front End Web Development course at The Flatiron School. 
+# Exceptional Realty Group Website
 
-# Contact
+## Description
 
-email: myemail@email.com
+This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
+
+my email: sophie.debenedetto@gmail.com 
